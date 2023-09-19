@@ -7,6 +7,7 @@ public class Main {
             if (gs > kh){
                 System.out.println("GALATASARAY: " + gs + " - " + "KOPENHAG: " + kh);
                 System.out.println("ICARDI!!!");
+                // Icardi is the best
             }else {
                 System.out.println("The program is not working well I guess");
             }
