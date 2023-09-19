@@ -10,6 +10,7 @@ public class Main {
                 // Icardi is the best
             }else {
                 System.out.println("The program is not working well I guess");
+                System.out.println("Galatasaray must win the game");
             }
     }
 }
